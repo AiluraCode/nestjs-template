@@ -1,0 +1,9 @@
+/dist
+.env
+.env.example
+.vscode
+pnpm-lock.yaml
+vercel.json
+.vercelignore
+/test
+**/*.spec.ts
